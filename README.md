@@ -10,16 +10,15 @@ I’m currently developing my analytical and technical skills through hands-on p
 
 ## 🛠️ Skills & Technologies
 
-* 📊 Microsoft Excel
-* 🗄️ SQL
-* 🐍 Python
-* 🐼 Pandas
-* 🔢 NumPy
-* 📈 Data Visualization
-* 📊 Pivot Tables & Pivot Charts
-* 🎛️ Slicers & Excel Dashboards
-* 🧹 Data Cleaning
-* 🔍 Exploratory Data Analysis
+📊 Microsoft Excel
+📊 Power BI
+🗄️ SQL
+🐍 Python (Basic)
+📈 Data Visualization
+🧹 Data Cleaning
+🔍 Exploratory Data Analysis
+📊 Pivot Tables & Pivot Charts
+🎛️ Slicers & Excel Dashboards
 
 ---
 
