@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Arif Ansari 👋
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Python+%7C+Data+Visualization;Turning+Data+into+Insights" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" /> </p>
 
 ### 📊 Aspiring Data Analyst | Excel • SQL • Python • Data Visualization
 
