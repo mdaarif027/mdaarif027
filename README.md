@@ -1,8 +1,27 @@
 # Hi, I'm Mohammad Arif Ansari 👋
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" /> </p>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 📊 Aspiring Data Analyst | Excel • SQL • Python • Data Visualization
+### 📊 Aspiring Data Analyst
+
+**Excel • SQL • Power BI • Python (Basic)**
+
+I’m passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
+
+📍 Hyderabad, Telangana, India
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation" />
+
+**💻 Tech Enthusiast • 🚀 Lifelong Learner**
+
+</td>
+</tr>
+</table>
 
 I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
 
@@ -12,15 +31,27 @@ I’m currently developing my analytical and technical skills through hands-on p
 
 ## 🛠️ Skills & Technologies
 
-📊 Microsoft Excel
-📊 Power BI
-🗄️ SQL
-🐍 Python (Basic)
-📈 Data Visualization
-🧹 Data Cleaning
-🔍 Exploratory Data Analysis
-📊 Pivot Tables & Pivot Charts
-🎛️ Slicers & Excel Dashboards
+* 📊 Microsoft Excel
+* 📊 Power BI
+* 🗄️ SQL
+* 🐍 Python (Basic)
+* 🐼 Pandas
+* 🔢 NumPy
+* 📈 Data Visualization
+* 📊 Pivot Tables & Pivot Charts
+* 🎛️ Slicers & Excel Dashboards
+* 🧹 Data Cleaning
+* 🔍 Exploratory Data Analysis
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Excel Sales Dashboard
+
+Interactive sales dashboard created to analyze sales performance using Pivot Tables, Pivot Charts, Slicers, KPIs, and data visualization.
+
+*Tools:* Microsoft Excel • Pivot Tables • Pivot Charts • Slicers • Data Visualization
 
 ---
 
