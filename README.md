@@ -35,23 +35,11 @@ I’m currently developing my analytical and technical skills through hands-on p
 * 📊 Power BI
 * 🗄️ SQL
 * 🐍 Python (Basic)
-* 🐼 Pandas
-* 🔢 NumPy
 * 📈 Data Visualization
 * 📊 Pivot Tables & Pivot Charts
 * 🎛️ Slicers & Excel Dashboards
 * 🧹 Data Cleaning
 * 🔍 Exploratory Data Analysis
-
----
-
-## 📌 Featured Projects
-
-### 📊 Excel Sales Dashboard
-
-Interactive sales dashboard created to analyze sales performance using Pivot Tables, Pivot Charts, Slicers, KPIs, and data visualization.
-
-*Tools:* Microsoft Excel • Pivot Tables • Pivot Charts • Slicers • Data Visualization
 
 ---
 
