@@ -66,6 +66,26 @@ I’m currently developing my analytical and technical skills through hands-on p
 
 ---
 
+## 🚀 Projects
+
+### 📚 Online Bookstore SQL Analysis
+**PostgreSQL • SQL • Data Analysis**
+
+End-to-end SQL project analyzing books, customers, orders, sales, revenue, and inventory.
+
+🔹 Used JOINs, GROUP BY, HAVING, Aggregate Functions, LEFT JOIN, and COALESCE.
+
+🔗 [View Project](https://github.com/mdaarif027/online-bookstore-sql-analysis)
+
+### 📱 Mobile Sales Dashboard
+**Power BI • Excel • Data Visualization**
+
+Interactive dashboard analyzing mobile phone sales across cities, brands, and product categories.
+
+🔗 [View Project](YOUR-LINK-HERE)
+
+---
+
 ## 🎯 Career Goal
 
 I’m looking to begin my career as a **Data Analyst**, where I can apply my analytical skills to real-world problems, continuously learn new technologies, and contribute to data-driven decision-making in a growth-oriented organization.
