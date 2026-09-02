@@ -84,6 +84,17 @@ Interactive dashboard analyzing mobile phone sales across cities, brands, and pr
 
 🔗 [View Project](https://github.com/mdaarif027/mobile-sales-dashboard-powerbi)
 
+### 🐍 E-Commerce Customer Purchase Analysis
+
+**Python • Pandas • Plotly • Data Analysis**
+
+End-to-end Python project analyzing customer purchase data to understand purchasing behavior and identify useful patterns.
+
+🔹 Performed data exploration, filtering, string operations, GroupBy, aggregation, statistical analysis, EDA, and interactive data visualization using Plotly.
+
+🔗 [View Project](https://github.com/mdaarif027/E-Commerce-Customer-Purchase-Analysis)
+
+
 ---
 
 ## 🎯 Career Goal
