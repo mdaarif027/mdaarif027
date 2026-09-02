@@ -82,7 +82,7 @@ End-to-end SQL project analyzing books, customers, orders, sales, revenue, and i
 
 Interactive dashboard analyzing mobile phone sales across cities, brands, and product categories.
 
-🔗 [View Project](YOUR-LINK-HERE)
+🔗 [View Project](https://github.com/mdaarif027/mobile-sales-dashboard-powerbi)
 
 ---
 
