@@ -6,7 +6,7 @@
 
 ### 📊 Aspiring Data Analyst
 
-**Excel • SQL • Power BI • Python (Basic)**
+**Excel • SQL • Power BI • Python * Pandas **
 
 I’m passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
 
