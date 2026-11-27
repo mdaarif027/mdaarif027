@@ -1,22 +1,5 @@
 # Hi, I'm Mohammad Arif Ansari 👋
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation" />
-
-**💻 Tech Enthusiast • 🚀 Lifelong Learner**
-
-</td>
-</tr>
-</table>
-
-# Hi, I'm Mohammad Arif Ansari 👋
-
 ### 🚀 Flutter Developer | Mobile App Developer
 
 **Flutter • Dart • PostgreSQL • REST APIs • Git & GitHub**
@@ -38,21 +21,29 @@ I have hands-on experience working on real-world company projects, integrating R
 - 🔗 **API Integration:** REST APIs, JSON, HTTP
 - 🔄 **State Management:** Provider / GetX / BLoC (as applicable)
 - 🔐 **Authentication:** API-based Authentication
-- 🧰 **Tools:** VS Code, Android Studio, Postman
+- 🧰 **Development Tools:** VS Code, Android Studio, Postman
 - 🌿 **Version Control:** Git, GitHub
 - 🤖 **AI Tools:** ChatGPT, Claude, Antigravity
 
 ---
 
-## 💼 Professional Experience & Projects
+## 💼 Professional Experience
 
 - Working on real-world company-based mobile application projects.
 - Developing mobile application screens using Flutter and Dart.
 - Integrating REST APIs and handling JSON responses.
-- Connecting applications with PostgreSQL-backed backend services.
+- Connecting applications with backend services.
 - Implementing authentication and application functionality.
 - Debugging, testing, and improving application performance.
 - Using Git and GitHub for version control and collaboration.
+
+---
+
+## 🚀 Projects
+
+**Coming Soon...**
+
+More Flutter projects and development work will be added here soon.
 
 ---
 
@@ -68,6 +59,12 @@ I have hands-on experience working on real-world company projects, integrating R
 - Mobile App Deployment
 
 ---
+
+## 🔗 Connect With Me
+
+- **GitHub:** [mdaarif027](https://github.com/mdaarif027)
+
+
 
 ## 📊 What I Enjoy
 
