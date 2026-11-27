@@ -1,8 +1,8 @@
 # Hi, I'm Mohammad Arif Ansari 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Programmer Coding Animation" />
-</p>
+<table>
+<tr>
+<td width="60%" valign="center">
 
 ### 🚀 Flutter Developer | Mobile App Developer
 
@@ -15,6 +15,15 @@ I have hands-on experience working on real-world company projects, integrating R
 📍 Hyderabad, Telangana, India
 
 **💻 Mobile App Developer • 🤖 AI-Assisted Development • 🚀 Continuous Learner**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Programmer Coding Animation" />
+
+</td>
+</tr>
+</table>
 
 ---
 
