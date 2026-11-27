@@ -23,36 +23,80 @@ I’m passionate about transforming raw data into meaningful insights and suppor
 </tr>
 </table>
 
-I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
+# Hi, I'm Mohammad Arif Ansari 👋
 
-I’m currently developing my analytical and technical skills through hands-on projects, practical learning, and consistent practice.
+### 🚀 Flutter Developer | Mobile App Developer
+
+**Flutter • Dart • PostgreSQL • REST APIs • Git & GitHub**
+
+I'm a passionate Flutter Developer focused on building responsive, scalable, and user-friendly mobile applications using Flutter and Dart.
+
+I have hands-on experience working on real-world company projects, integrating REST APIs, managing application data, debugging issues, and developing practical mobile app features.
+
+📍 Hyderabad, Telangana, India
+
+**💻 Mobile App Developer • 🤖 AI-Assisted Development • 🚀 Continuous Learner**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-* 📊 Microsoft Excel
-* 📊 Power BI
-* 🗄️ SQL
-* 🐍 Python (Basic)
-* 📈 Data Visualization
-* 📊 Pivot Tables & Pivot Charts
-* 🎛️ Slicers & Excel Dashboards
-* 🧹 Data Cleaning
-* 🔍 Exploratory Data Analysis
+- 📱 **Mobile Development:** Flutter, Dart
+- 🗄️ **Database:** PostgreSQL, SQL
+- 🔗 **API Integration:** REST APIs, JSON, HTTP
+- 🔄 **State Management:** Provider / GetX / BLoC (as applicable)
+- 🔐 **Authentication:** API-based Authentication
+- 🧰 **Tools:** VS Code, Android Studio, Postman
+- 🌿 **Version Control:** Git, GitHub
+- 🤖 **AI Tools:** ChatGPT, Claude, Antigravity
 
 ---
 
-## 🎯 Currently Learning
+## 💼 Professional Experience & Projects
 
-* Data Analysis
-* Advanced Excel
-* SQL
-* Python for Data Analysis
-* Data Visualization
-* Exploratory Data Analysis
-* Building real-world data projects
+- Working on real-world company-based mobile application projects.
+- Developing mobile application screens using Flutter and Dart.
+- Integrating REST APIs and handling JSON responses.
+- Connecting applications with PostgreSQL-backed backend services.
+- Implementing authentication and application functionality.
+- Debugging, testing, and improving application performance.
+- Using Git and GitHub for version control and collaboration.
 
+---
+
+## 🎯 Currently Improving
+
+- Advanced Flutter Development
+- Dart Programming
+- State Management
+- REST API Development & Integration
+- PostgreSQL & Database Management
+- Application Architecture
+- Testing & Debugging
+- Mobile App Deployment
+
+---
+
+## 📊 What I Enjoy
+
+- 📱 Building mobile applications
+- 💡 Solving real-world development problems
+- 🔗 Working with APIs and databases
+- 🧩 Writing clean and maintainable code
+- 🚀 Learning new technologies
+- 🤖 Using AI tools to improve development productivity
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [mdaarif027](https://github.com/mdaarif027)
+- LinkedIn: Add your LinkedIn profile URL
+- Email: Add your professional email address
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
 ---
 
 ## 📊 What I Enjoy
