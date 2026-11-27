@@ -4,14 +4,6 @@
 <tr>
 <td width="55%" valign="top">
 
-### 📊 Aspiring Data Analyst
-
-**Excel • SQL • Power BI • Python * Pandas **
-
-I’m passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
-
-📍 Hyderabad, Telangana, India
-
 </td>
 <td width="45%" align="center">
 
