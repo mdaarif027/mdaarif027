@@ -12,7 +12,7 @@ I'm a passionate Flutter Developer focused on building responsive, scalable, and
 
 I have hands-on experience working on real-world company projects, integrating REST APIs, managing application data, debugging issues, and developing practical mobile app features.
 
-📍 Hyderabad, Telangana, India
+📍 **Delhi, India**
 
 **💻 Mobile App Developer • 🤖 AI-Assisted Development • 🚀 Continuous Learner**
 
@@ -57,7 +57,6 @@ I have hands-on experience working on real-world company projects, integrating R
 **Coming Soon...**
 
 More Flutter projects and development work will be added here soon.
-
 ---
 
 ## 🎯 Currently Improving
